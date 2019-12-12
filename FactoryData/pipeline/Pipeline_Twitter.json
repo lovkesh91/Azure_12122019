@@ -1,7 +1,0 @@
-{
-	"name": "Pipeline_Twitter",
-	"properties": {
-		"description": "To read the data from Twitter into Event hub and then to a blob.",
-		"annotations": []
-	}
-}
